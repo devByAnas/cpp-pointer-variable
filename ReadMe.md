@@ -1,6 +1,6 @@
 # 📌 Pointer Variables & Dereference Operator
 
-> **A pointer is a variable that stores the memory address of another variable, allowing indirect access to data. The dereference operator (*) accesses or modifies the value stored at that address, while the address-of operator (&) retrieves the address of a variable, crucial for memory management, data structures, and efficient data handling.**
+ **A pointer is a variable that stores the memory address of another variable, allowing indirect access to data. The dereference operator (*) accesses or modifies the value stored at that address, while the address-of operator (&) retrieves the address of a variable, crucial for memory management, data structures, and efficient data handling.**
 
 ---
 
@@ -191,4 +191,5 @@ int* p = &x;     →  p us box ka address/location store karta hai
 
 ---
 
-> 💡 **Tip:** Pointers samajhne ka best tarika hai debug mode mein memory addresses khud dekho — VS Code ya Code::Blocks ke debugger mein variable watch karein!
+## 👨‍💻 Author
+> devByAnas
